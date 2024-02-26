@@ -1,0 +1,18 @@
+Add Campaign SaveMyBrother
+Add Campaign BiggestCheeseDonation
+Add Campaign BuyMyMomACar
+Add Campaign FixMyRoof
+Add Donor Matias $15000
+Add Donor Coni $300
+Add Donor Federico $599
+Add Donor Mariana $5432
+Add Donor Julieta $2342
+Donate Julieta BiggestCheeseDonation 534
+Donate Coni SaveMyBrother 200
+Donate Matias BiggestCheeseDonation $13000
+Donate Matias BuyMyMomACar $16000
+Donate Coni BuyMyMomACar 350
+Donate Matias FixMyRoof 1000
+Donate Federico FixMyRoof 600
+Donate Federico SaveMyBrother 500
+Donate Federico BuyMyMomACar 400
